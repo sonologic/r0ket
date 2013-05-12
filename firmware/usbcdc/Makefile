@@ -9,6 +9,7 @@ OBJS += usbdesc.o
 OBJS += usbhw.o
 OBJS += usbuser.o
 OBJS += util.o
+OBJS += cdc_buf.o
 
 LIBNAME=usbcdc
 
